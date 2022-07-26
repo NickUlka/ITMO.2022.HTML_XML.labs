@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:TimeTable xmlns:myns="http://www.itmo.ru/xml/lessons" 
+                xmlns:="https://www.w3.org/TR/xml">
+			
+				
+	<myns:item>
+		<myns:Name>HTML/XML</myns:Name>
+		<myns:Teacher>Смольянинов</myns:Teacher>
+		<myns:Begin>21.07.2022</myns:Begin>
+			<myns:End>26.07.2022</myns:End>
+			<Literature>
+			<Book> Compilers </Book>
+			<URL>https://www.w3.org/TR/xml-names/ </URL>
+			</Literature>
+	</myns:item>
+
+	<myns:item>
+		<myns:Name>Transact-SQL</myns:Name>
+		<myns:Teacher>Ямщиков</myns:Teacher>
+		<myns:Begin>06.06.2022</myns:Begin>
+			<myns:End>26.06.2022</myns:End>
+			<Literature>
+			<Book> Beginning SQL Server </Book>
+			<Book> Разработка баз данных в MS SQL Server </Book>
+			</Literature>
+	</myns:item>
+</myns:TimeTable>
