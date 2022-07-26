@@ -14,7 +14,7 @@
 			</Literature>
 	</myns:item>
 
-	<myns:item>
+	<myns:item1>
 		<myns:Name>Transact-SQL</myns:Name>
 		<myns:Teacher>Ямщиков</myns:Teacher>
 		<myns:Begin>06.06.2022</myns:Begin>
@@ -23,5 +23,5 @@
 			<Book> Beginning SQL Server </Book>
 			<Book> Разработка баз данных в MS SQL Server </Book>
 			</Literature>
-	</myns:item>
+	</myns:item1>
 </myns:TimeTable>
